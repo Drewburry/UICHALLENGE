@@ -1,0 +1,181 @@
+body {
+
+    font: 18px/1.5 Arial, Helvetica, sans-serif;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(images/bg-header-desktop.png);
+    }
+
+
+    .logo {
+        float:initial;
+        text-align: center;
+        padding:5px;
+        margin: 5px;
+    }
+
+    .main-div{
+        padding-top:50px;
+        margin-top: 50px;
+        display: flex;
+        margin-left: 5%;
+    }
+    .button1 {
+      
+        padding: 15px 25px;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #3da88e;
+        border: none;
+        border-radius: 35px;
+        margin-top: 5%;
+        
+      }
+      
+      .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666 ;
+        transform: translateY(4px);
+      }
+
+
+    .button {
+        padding: 15px 25px;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #5f4ef3;
+        border: none;
+        border-radius: 35px;
+        margin-left: 2%;
+        
+      }
+      
+      .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+    .image1{
+float:left;
+
+}
+    .textbox1{
+        clear: left;
+        text-align: center;
+        margin-top: 5%;
+    }
+    .textbox2 {
+       margin-left: 10%;
+    }
+
+.textbox3 {
+    clear: left;
+        text-align: center;
+        margin-top: 10%;
+        
+}
+
+.textbox4 {
+ text-align: center;
+}
+
+.textbox5 {
+    text-align: center;
+    margin-top: 5%;
+   }
+    .img-container {
+text-align: center;
+margin-top: 10%;
+    }
+
+    .text-logo {
+     display: flex;
+     justify-content: center;
+    }
+
+    .small-box{
+        margin-left: 4%;
+        margin-top: 8%;
+        text-align: center;
+    }
+
+    .bott_img {
+        justify-content: center;
+        display: flex;
+        margin-top:3%;
+      
+        
+    }
+     .companylogo {
+
+        margin-left: 4%;
+        margin-top: 4%;
+
+    }
+
+    .bottom_butt {
+      margin-left: 35% ;
+    }
+
+    .button2 {
+        padding: 15px 25px;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #3da88e;
+        border: none;
+        border-radius: 35px;
+        margin-top: 5%;
+        
+      }
+      
+      
+      .button:active {
+        background-color: #3e8e41;
+
+        transform: translateY(4px);
+      }
+    .button3 {
+        padding: 15px 25px;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #5f4ef3;
+        border: none;
+        border-radius: 35px;
+        margin-left:3%;
+
+      }
+      
+      .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+      .footer {
+        margin-top: 10%;
+        margin-left: 10%;
+        display: flex;
+      
+
+      }
+      .bottTextbox {
+        margin-left: 7%;
+      } 
+
+      .bottTextboxIm{
+        margin-left: 25%;
+        margin-top: 2%;
+      }
